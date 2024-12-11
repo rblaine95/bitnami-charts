@@ -1,8 +1,13 @@
 # Changelog
 
+## 24.3.1 (2024-12-11)
+
+* [bitnami/keycloak] Update Keycloak Config CLI ([#30840](https://github.com/bitnami/charts/pull/30840))
+
 ## 24.3.0 (2024-12-10)
 
-* [bitnami/keycloak] Detect non-standard images ([#30902](https://github.com/bitnami/charts/pull/30902))
+* [bitnami/*] Add Bitnami Premium to NOTES.txt (#30854) ([3dfc003](https://github.com/bitnami/charts/commit/3dfc00376df6631f0ce54b8d440d477f6caa6186)), closes [#30854](https://github.com/bitnami/charts/issues/30854)
+* [bitnami/keycloak] Detect non-standard images (#30902) ([6ee9c49](https://github.com/bitnami/charts/commit/6ee9c49966c3ff9d1f1d0fa05278d36a2e45af8e)), closes [#30902](https://github.com/bitnami/charts/issues/30902)
 
 ## <small>24.2.3 (2024-12-03)</small>
 
